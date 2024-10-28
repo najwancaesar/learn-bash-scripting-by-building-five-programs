@@ -5,3 +5,4 @@ chmod +x five.sh
 mv questionnaire.sh five.sh
 touch questionnaire.sh
 chmod +x questionnaire.sh
+./five.sh
