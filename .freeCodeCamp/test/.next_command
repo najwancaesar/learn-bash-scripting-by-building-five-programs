@@ -7,3 +7,4 @@ touch questionnaire.sh
 chmod +x questionnaire.sh
 ./five.sh
 clear
+./five.sh
