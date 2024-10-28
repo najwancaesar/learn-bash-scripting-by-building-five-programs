@@ -9,3 +9,4 @@ chmod +x questionnaire.sh
 clear
 ./five.sh
 help
+help type
